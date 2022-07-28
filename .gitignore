@@ -1,0 +1,4 @@
+# Skip commiting the sqlite database
+# instead I can just run `zk index`
+# on a newly pulled notebook
+notebook.db
